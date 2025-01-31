@@ -34,7 +34,7 @@ BERT Model Testing: Experimented with a BERT model on both datasets, adding a �
 - **Routing Mechanism**: Ensured accurate node responsibility and proper message forwarding in line with the Chord protocol’s requirements.  
 - **Largest Network Handled**: Validated the implementation with 3,000 nodes, each handling 3,000 requests, demonstrating scalability and robustness.  
 
-### 📌 [Actor Modelling]([https://github.com/sahasgundapaneni/Actor-Modeling_DOSP-Project.git](https://github.com/AbhinavReddy18-bytes/Distributed-Operating-Systems-Actor-Modelling))
+### 📌 [Actor Modelling](https://github.com/AbhinavReddy18-bytes/Distributed-Operating-Systems-Actor-Modelling)
 - Distributed work units across multiple cores to boost parallel performance, experimenting with various unit sizes to balance communication overhead and execution speed.
 - Measured CPU time against real time to gauge efficiency, and tuned performance by adjusting the number of workers and limiting sequence processing.
 - Resolved actor model synchronization issues for smoother parallel execution, improving error handling and debugging with a focus on actor safety and reference capabilities.
