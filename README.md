@@ -6,7 +6,7 @@
 
 [📖 Master of Science in Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/)
 <br>
-[🎓 Bachelor of Technology in Computer Science & Engineering]([https://www.bennett.edu.in/programs/btech-cse/](https://jaipur.manipal.edu/fosta/department-of-Computer-Science-Engineering.php))
+[🎓 Bachelor of Technology in Computer Science & Engineering](https://jaipur.manipal.edu/fosta/department-of-Computer-Science-Engineering.php)
 <br>
 📧 E-mail : [pannalaabhinav02@gmail.com](mailto:pannalaabhinav02@gmail.com)
 <br>
