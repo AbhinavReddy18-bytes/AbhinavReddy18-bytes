@@ -15,10 +15,10 @@
 ## My Works are!!!
 
 ### 📌 [Analyzers- Comparitive Study of legal Analysis using different AI Models](https://github.com/AbhinavReddy18-bytes/Analyzers-)
-- Data Collection: Gathered penal code datasets for California and New York, performed web scraping, and created three versions (uncleaned, cleaned, combined) by manually fixing inconsistent rows and columns.
-- Preprocessing Steps: Applied common techniques like normalization, tokenization, text cleaning, and vectorization to prepare the data for analysis.
+- **Data Collection**: Gathered penal code datasets for California and New York, performed web scraping, and created three versions (uncleaned, cleaned, combined) by manually fixing inconsistent rows and columns.
+- **Preprocessing Steps**: Applied common techniques like normalization, tokenization, text cleaning, and vectorization to prepare the data for analysis.
 BERT Model Testing: Experimented with a BERT model on both datasets, adding a “STATE” category for the combined dataset. Faced complications with memory usage and errors while training with torch.no_grad().
-- Training and Code Sharing: Each model training iteration was set to 5 epochs, but iterative tuning would be costly. A code example is shared, focusing on GPT procedures rather than the full implementation.
+- **Training and Code Sharing**: Each model training iteration was set to 5 epochs, but iterative tuning would be costly. A code example is shared, focusing on GPT procedures rather than the full implementation.
 
 ### 📌 [Reddit-Clone-and-Client-tester-and-simulator-with-REST-API](https://github.com/AbhinavReddy18-bytes/Reddit-Clone-and-Client-tester-and-simulator-with-REST-API-Project)
 - **Engine**: Successfully implemented account registration, sub-reddit creation/join/leave, text posting, nested commenting, and up/downvoting with Karma tracking.
