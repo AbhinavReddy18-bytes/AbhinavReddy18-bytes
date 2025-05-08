@@ -51,4 +51,4 @@ BERT Model Testing: Experimented with a BERT model on both datasets, adding a �
 
 ## I worked at.....
 
-- **💼 College of Veterinary Medicine, University of Florida** _, Data analyst_
+- **💼 College of Veterinary Medicine, University of Florida** _, Software Engineer_
