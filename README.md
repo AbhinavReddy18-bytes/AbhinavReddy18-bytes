@@ -51,4 +51,5 @@ BERT Model Testing: Experimented with a BERT model on both datasets, adding a �
 
 ## I worked at.....
 
-- **💼 College of Veterinary Medicine, University of Florida** _, Software Engineer_
+- **💼 Cinema Verde** _, Full-Stack Software Engineer_ (February 2025 - Present)
+- **💼 College of Veterinary Medicine, University of Florida** _, Software Engineer_ (August 2023 - December 2024)
