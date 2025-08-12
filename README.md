@@ -1,7 +1,7 @@
 ### Hi Folks! You happened to stop at this profile of.....
 
 # Abhinav Reddy Pannala
-#### Computer Science graduate exploring new technologies and solutions. Skilled in programming, algorithms, and problem-solving, with a collaborative mindset that values diverse perspectives. Proficient in Python Programming, and Data Science. Combines technical expertise and creativity to deliver innovative results, backed by a strong sense of responsibility and project integrity.
+#### Graduate with expertise in Machine Learning, AI, and Software Development. Proven ability to develop scalable solutions, optimize data pipelines, and build ML models, driving significant efficiency and accuracy improvements. Proficient in Python, React, Go, ML/AI frameworks, AWS and GCP.
 
 
 [📖 Master of Science in Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/)
@@ -42,12 +42,13 @@ BERT Model Testing: Experimented with a BERT model on both datasets, adding a �
 
 ## I possess.....
 
-- **_💻 Languages:_** Python, R, MySQL, GO, JavaScript, PhP, HTMl, CSS
-- **_💻 Frameworks & Libraries:_** Django, React.js, TensorFlow, NumPy, Pandas, Keras, OpenCV
-- **_💻 Data Analysis & Visualization:_** Tableau, Power BI, Matplotlib, Seaborn
-- **_💻 Technologies:_** Machine Learning, Data Science, Big Data Analytics, Generative AI, Web Development, Hadoop, Spark
-- **_💻 Development Tools:_** Git, Anaconda, Figma, Jupyter NoteBook, NetBeans, Visual Studio Code
-- **_💻 Other Expertise:_** Agile Methodology, Data Structures, Cloud Computing (GCP)
+- **_💻 Languages:_** Java, C#, Python, R, MySQL, GO, JavaScript, PhP, HTMl, CSS, TypeScript, JavaScript, JSON
+- **_💻 Frameworks & Libraries:_** Django, Spring Boot, React.js, TensorFlow, OpenCV, Scikit-Learn, Pickle
+- **_💻 Data Analysis & Visualization:_** Tableau, Power BI, Postgre SQL, Matplotlib, NumPy, Pandas, Keras, Seaborn
+- **_💻 Technologies:_** Machine Learning, MongoDB, LLM, BERT, GPT-2, T5, Retrieval-Augmented Generation, Agentic AI, Spark
+- **_💻 Development Tools:_** Git, Anaconda, Figma, Jupyter NoteBook, Docker, NetBeans, Visual Studio Code
+- **_💻 Other Expertise:_** Agile Methodology, KPIs, CI/CD pipelines, AWS - IAM, EC2, S3, Lambda, Bedrock, SageMaker, Glue,
+GCP-ML, Data Structures and Algorithms
 
 ## I worked at.....
 
