@@ -55,4 +55,5 @@ Autoencoders, GANs, Recommender Systems
 ## I worked at.....
 
 - **💼 Cinema Verde** _, Full-Stack Software Engineer_ (February 2025 - Present)
-- **💼 College of Veterinary Medicine, University of Florida** _, Software Engineer_ (August 2023 - December 2024)
+- **💼 College of Veterinary Medicine, University of Florida Operations** _, Software Engineer_ (August 2023 - December 2024)
+- **💼 College of Veterinary Medicine, University of Florida** _, Data Entry Specialist_ (January 2023 - May 2023)
