@@ -1,7 +1,7 @@
 ### Hi Folks! You happened to stop at this profile of.....
 
 # Abhinav Reddy Pannala
-#### Graduate with expertise in Machine Learning, AI, and Software Development. Proven ability to develop scalable solutions, optimize data pipelines, and build ML models, driving significant efficiency and accuracy improvements. Proficient in Python, React, Go, ML/AI frameworks, AWS and GCP.
+#### I am a Software Engineer with a Master’s in Computer Science from the University of Florida, interested in solving real-world problems through innovative and scalable solutions. My work focuses on improving efficiency, accuracy, and accessibility by streamlining processes and building reliable systems. I am also deeply interested in the role of data and AI in shaping impactful solutions. From enhancing accessibility with real-time translation to creating data-driven insights for better decision-making.
 
 
 [📖 Master of Science in Computer Science](https://www.cise.ufl.edu/academics/graduate/masters-program/)
@@ -42,13 +42,15 @@ BERT Model Testing: Experimented with a BERT model on both datasets, adding a �
 
 ## I possess.....
 
-- **_💻 Languages:_** Java, C#, Python, R, MySQL, GO, JavaScript, PhP, HTMl, CSS, TypeScript, JavaScript, JSON
-- **_💻 Frameworks & Libraries:_** Django, Spring Boot, React.js, TensorFlow, OpenCV, Scikit-Learn, Pickle
-- **_💻 Data Analysis & Visualization:_** Tableau, Power BI, Postgre SQL, Matplotlib, NumPy, Pandas, Keras, Seaborn
-- **_💻 Technologies:_** Machine Learning, MongoDB, LLM, BERT, GPT-2, T5, Retrieval-Augmented Generation, Agentic AI, Spark
-- **_💻 Development Tools:_** Git, Anaconda, Figma, Jupyter NoteBook, Docker, NetBeans, Visual Studio Code
-- **_💻 Other Expertise:_** Agile Methodology, KPIs, CI/CD pipelines, AWS - IAM, EC2, S3, Lambda, Bedrock, SageMaker, Glue,
-GCP-ML, Data Structures and Algorithms
+- **_💻 Languages:_** Java, Python, JavaScript, TypeScript, SQL, PL/SQL, R, Go, Shell Script, HTML5, CSS3, JSON,
+XML
+- **_💻 Frameworks & Libraries:_** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Django, React.js, React Router, TensorFlow, PyTorch, Keras, OpenCV, Scikit-learn, Pickle
+- **_💻 Data Analysis & Visualization:_** Tableau, SQL, PostgreSQL, Power BI, Matplotlib, Seaborn, NumPy, Pandas, Keras
+- **_💻 Cloud & Monitoring:_** AWS - EC2, Lambda, S3, RDS, IAM, CloudWatch, Bedrock, SageMaker, Glue; GCP - ML, Compute, Storage; Spring Cloud Gateway, Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelines, Docker Compose, Grafana
+- **_💻 Backend & DataBases:_** RESTful APIs, Microservices, Spring Web, Spring Core, Apache Kafka, Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, JDBC
+- **_💻 AI & LLMs:_** GPT, BERT, T5, LLaMA, Claude, Retrieval-Augmented Generation, Agentic AI, CNN, RNN-LSTM,
+Autoencoders, GANs, Recommender Systems
+- **_💻 Testing and Tools:_** JUnit, React Testing Library, Postman, Git, GitHub, Jira, NetBeans, Anaconda, Figma, Jupyter Notebook
 
 ## I worked at.....
 
